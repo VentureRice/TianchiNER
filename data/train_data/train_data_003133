@@ -1,0 +1,17 @@
+患	O
+有	O
+浅	B-DISEASE
+表	I-DISEASE
+性	I-DISEASE
+胃	I-DISEASE
+炎	I-DISEASE
+或	O
+脾	B-SYNDROME
+胃	I-SYNDROME
+虚	I-SYNDROME
+寒	I-SYNDROME
+者	O
+饭	O
+后	O
+服	O
+用	O

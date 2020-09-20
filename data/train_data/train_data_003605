@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+1	O
+、	O
+服	O
+期	O
+间	O
+忌	O
+食	B-FOOD_GROUP
+酸	I-FOOD_GROUP
+、	O
+冷	B-FOOD_GROUP
+和	O
+辛	B-FOOD_GROUP
+辣	I-FOOD_GROUP
+食	O
+品	O

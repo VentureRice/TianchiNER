@@ -1,0 +1,16 @@
+<PAD>	O
+<PAD>	O
+1	O
+.	O
+忌	O
+食	O
+辛	O
+辣	O
+、	O
+生	B-FOOD_GROUP
+冷	I-FOOD_GROUP
+、	O
+油	B-FOOD_GROUP
+腻	I-FOOD_GROUP
+食	O
+物	O

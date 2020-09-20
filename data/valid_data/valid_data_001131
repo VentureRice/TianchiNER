@@ -1,0 +1,17 @@
+<PAD>	O
+0	O
+.	O
+5	O
+g	O
+*	O
+4	O
+8	O
+粒	O
+/	O
+盒	O
+<PAD>	O
+<PAD>	O
+孕	B-PERSON_GROUP
+妇	I-PERSON_GROUP
+慎	O
+用	O

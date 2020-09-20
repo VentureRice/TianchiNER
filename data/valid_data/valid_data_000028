@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+非	O
+处	O
+方	O
+药	O
+物	O
+（	O
+甲	O
+类	O
+）	O
+<PAD>	O
+<PAD>	O
+孕	B-PERSON_GROUP
+妇	I-PERSON_GROUP
+禁	O
+服	O

@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+尚	O
+不	O
+明	O
+确	O
+。	O
+<PAD>	O
+<PAD>	O
+理	O
+气	O
+，	O
+活	B-DRUG_EFFICACY
+血	I-DRUG_EFFICACY
+，	O
+止	B-DRUG_EFFICACY
+痛	I-DRUG_EFFICACY

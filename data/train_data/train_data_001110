@@ -1,0 +1,16 @@
+<PAD>	O
+<PAD>	O
+1	O
+.	O
+忌	O
+生	B-FOOD_GROUP
+冷	I-FOOD_GROUP
+食	O
+物	O
+，	O
+不	O
+宜	O
+洗	O
+凉	O
+水	O
+澡	O

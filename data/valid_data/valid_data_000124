@@ -1,0 +1,16 @@
+<PAD>	O
+<PAD>	O
+1	O
+少	O
+吃	O
+生	O
+冷	O
+及	O
+油	B-PERSON_GROUP
+腻	I-PERSON_GROUP
+难	O
+消	O
+化	O
+的	O
+食	O
+品	O

@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+尚	O
+不	O
+明	O
+确	O
+。	O
+<PAD>	O
+<PAD>	O
+清	B-DRUG_EFFICACY
+热	I-DRUG_EFFICACY
+，	O
+除	O
+湿	O
+，	O
+止	B-DRUG_EFFICACY
+带	I-DRUG_EFFICACY

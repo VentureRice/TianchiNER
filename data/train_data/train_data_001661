@@ -1,0 +1,17 @@
+<PAD>	O
+本	O
+品	O
+为	O
+糖	B-DRUG_DOSAGE
+衣	I-DRUG_DOSAGE
+片	I-DRUG_DOSAGE
+、	O
+除	O
+去	O
+糖	O
+衣	O
+后	O
+显	O
+棕	O
+褐	O
+色	O

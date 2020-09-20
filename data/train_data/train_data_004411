@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+儿	B-PERSON_GROUP
+童	I-PERSON_GROUP
+、	O
+孕	O
+妇	O
+禁	O
+用	O
+；	O
+糖	B-DISEASE
+尿	I-DISEASE
+病	I-DISEASE
+患	O
+者	O
+禁	O
+服	O
