@@ -1,0 +1,17 @@
+<PAD>	O
+<PAD>	O
+口	O
+服	O
+，	O
+小	B-DRUG_DOSAGE
+蜜	I-DRUG_DOSAGE
+丸	I-DRUG_DOSAGE
+一	O
+次	O
+1	O
+盒	O
+，	O
+一	O
+日	O
+1	O
+次	O

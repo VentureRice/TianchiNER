@@ -1,0 +1,16 @@
+<PAD>	O
+<PAD>	O
+1	O
+、	O
+忌	O
+食	O
+辛	B-DRUG_TASTE
+辣	I-DRUG_TASTE
+、	O
+生	B-DRUG_TASTE
+冷	I-DRUG_TASTE
+、	O
+油	B-DRUG_TASTE
+腻	I-DRUG_TASTE
+食	O
+物	O

@@ -1,0 +1,17 @@
+一	O
+次	O
+1	O
+5	O
+克	O
+，	O
+一	O
+日	O
+2	O
+次	O
+。	O
+<PAD>	O
+<PAD>	O
+祛	B-DRUG_EFFICACY
+瘀	I-DRUG_EFFICACY
+生	I-DRUG_EFFICACY
+新	I-DRUG_EFFICACY

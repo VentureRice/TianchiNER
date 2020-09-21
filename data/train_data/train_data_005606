@@ -1,0 +1,16 @@
+<PAD>	O
+<PAD>	O
+丸	B-DRUG_DOSAGE
+剂	I-DRUG_DOSAGE
+(	O
+大	O
+蜜	O
+丸	O
+)	O
+<PAD>	O
+<PAD>	O
+每	O
+丸	O
+重	O
+9	O
+g	O

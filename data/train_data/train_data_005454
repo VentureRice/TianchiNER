@@ -1,0 +1,17 @@
+用	O
+于	O
+血	O
+热	O
+妄	O
+行	O
+所	O
+致	O
+的	O
+月	B-SYMPTOM
+经	I-SYMPTOM
+过	I-SYMPTOM
+多	I-SYMPTOM
+凉	O
+血	O
+止	B-DRUG_EFFICACY
+血	I-DRUG_EFFICACY

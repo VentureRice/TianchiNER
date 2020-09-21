@@ -1,0 +1,17 @@
+<PAD>	O
+糖	B-DRUG_DOSAGE
+衣	I-DRUG_DOSAGE
+片	I-DRUG_DOSAGE
+（	O
+片	O
+芯	O
+重	O
+0	O
+.	O
+3	O
+g	O
+）	O
+<PAD>	O
+<PAD>	O
+口	O
+服	O

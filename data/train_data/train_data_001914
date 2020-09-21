@@ -1,0 +1,16 @@
+<PAD>	O
+南	O
+京	O
+中	O
+山	O
+制	O
+药	O
+有	O
+限	O
+公	O
+司	O
+<PAD>	O
+温	B-DRUG_EFFICACY
+阳	I-DRUG_EFFICACY
+补	I-DRUG_EFFICACY
+肾	I-DRUG_EFFICACY
