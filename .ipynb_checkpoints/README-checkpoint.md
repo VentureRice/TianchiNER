@@ -34,6 +34,15 @@ git pull  https://github.com/VentureRice/TianchiNER.git 将远程同步到本地
 
 问题：标点符号、max len
 
+
+日期:2020-09-23 11:43:04排名: 无
+
+|score | f1 | p | r |
+|---|--- |--- |--- |
+|0.6522 | 0.6522 | 0.6264 | 0.6801 |
+
+问题：要构造线下验证方式
+
 ```python
 
 ```
