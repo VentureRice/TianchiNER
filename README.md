@@ -32,7 +32,7 @@ git pull  https://github.com/VentureRice/TianchiNER.git 将远程同步到本地
 |---|--- |--- |--- |
 |0.0109 | 0.0109 | 0.0117 | 0.0102|
 
-问题：标点符号、max len
+问题：标点符号、max len（已解决）== 下标错位
 
 
 日期:2020-09-23 11:43:04排名: 无
@@ -41,7 +41,7 @@ git pull  https://github.com/VentureRice/TianchiNER.git 将远程同步到本地
 |---|--- |--- |--- |
 |0.6522 | 0.6522 | 0.6264 | 0.6801 |
 
-问题：要构造线下验证方式
+问题：要构造线下验证方式（已解决）
 
 ```python
 
