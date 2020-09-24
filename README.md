@@ -40,7 +40,3 @@ git pull  https://github.com/VentureRice/TianchiNER.git 将远程同步到本地
 问题：要构造线下验证方式（已解决）
 
 需要加入正则规则
-
-```python
-
-```
